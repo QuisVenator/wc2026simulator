@@ -1,0 +1,978 @@
+[
+    {
+        "team": "Spain",
+        "rating": "2165"
+    },
+    {
+        "team": "Argentina",
+        "rating": "2113"
+    },
+    {
+        "team": "France",
+        "rating": "2081"
+    },
+    {
+        "team": "England",
+        "rating": "2020"
+    },
+    {
+        "team": "Brazil",
+        "rating": "1984"
+    },
+    {
+        "team": "Portugal",
+        "rating": "1984"
+    },
+    {
+        "team": "Colombia",
+        "rating": "1975"
+    },
+    {
+        "team": "Netherlands",
+        "rating": "1961"
+    },
+    {
+        "team": "Ecuador",
+        "rating": "1933"
+    },
+    {
+        "team": "Croatia",
+        "rating": "1930"
+    },
+    {
+        "team": "Germany",
+        "rating": "1923"
+    },
+    {
+        "team": "Norway",
+        "rating": "1912"
+    },
+    {
+        "team": "Japan",
+        "rating": "1904"
+    },
+    {
+        "team": "Turkey",
+        "rating": "1902"
+    },
+    {
+        "team": "Uruguay",
+        "rating": "1892"
+    },
+    {
+        "team": "Switzerland",
+        "rating": "1889"
+    },
+    {
+        "team": "Senegal",
+        "rating": "1878"
+    },
+    {
+        "team": "Denmark",
+        "rating": "1869"
+    },
+    {
+        "team": "Belgium",
+        "rating": "1867"
+    },
+    {
+        "team": "Mexico",
+        "rating": "1860"
+    },
+    {
+        "team": "Italy",
+        "rating": "1856"
+    },
+    {
+        "team": "Paraguay",
+        "rating": "1833"
+    },
+    {
+        "team": "Austria",
+        "rating": "1827"
+    },
+    {
+        "team": "Morocco",
+        "rating": "1822"
+    },
+    {
+        "team": "Canada",
+        "rating": "1784"
+    },
+    {
+        "team": "Australia",
+        "rating": "1783"
+    },
+    {
+        "team": "Serbia",
+        "rating": "1769"
+    },
+    {
+        "team": "Scotland",
+        "rating": "1767"
+    },
+    {
+        "team": "Ukraine",
+        "rating": "1767"
+    },
+    {
+        "team": "Russia",
+        "rating": "1766"
+    },
+    {
+        "team": "Iran",
+        "rating": "1760"
+    },
+    {
+        "team": "Nigeria",
+        "rating": "1757"
+    },
+    {
+        "team": "South Korea",
+        "rating": "1752"
+    },
+    {
+        "team": "Greece",
+        "rating": "1752"
+    },
+    {
+        "team": "Algeria",
+        "rating": "1743"
+    },
+    {
+        "team": "Panama",
+        "rating": "1737"
+    },
+    {
+        "team": "Poland",
+        "rating": "1729"
+    },
+    {
+        "team": "Uzbekistan",
+        "rating": "1727"
+    },
+    {
+        "team": "Venezuela",
+        "rating": "1727"
+    },
+    {
+        "team": "Czechia",
+        "rating": "1726"
+    },
+    {
+        "team": "United States",
+        "rating": "1721"
+    },
+    {
+        "team": "Kosovo",
+        "rating": "1721"
+    },
+    {
+        "team": "Sweden",
+        "rating": "1719"
+    },
+    {
+        "team": "Chile",
+        "rating": "1710"
+    },
+    {
+        "team": "Hungary",
+        "rating": "1703"
+    },
+    {
+        "team": "Egypt",
+        "rating": "1699"
+    },
+    {
+        "team": "Wales",
+        "rating": "1698"
+    },
+    {
+        "team": "Peru",
+        "rating": "1695"
+    },
+    {
+        "team": "Slovenia",
+        "rating": "1694"
+    },
+    {
+        "team": "Ireland",
+        "rating": "1694"
+    },
+    {
+        "team": "Jordan",
+        "rating": "1690"
+    },
+    {
+        "team": "Ivory Coast",
+        "rating": "1676"
+    },
+    {
+        "team": "Slovakia",
+        "rating": "1673"
+    },
+    {
+        "team": "DR Congo",
+        "rating": "1655"
+    },
+    {
+        "team": "Georgia",
+        "rating": "1653"
+    },
+    {
+        "team": "Albania",
+        "rating": "1646"
+    },
+    {
+        "team": "Bolivia",
+        "rating": "1645"
+    },
+    {
+        "team": "Tunisia",
+        "rating": "1636"
+    },
+    {
+        "team": "Israel",
+        "rating": "1634"
+    },
+    {
+        "team": "Romania",
+        "rating": "1627"
+    },
+    {
+        "team": "Costa Rica",
+        "rating": "1614"
+    },
+    {
+        "team": "Cameroon",
+        "rating": "1614"
+    },
+    {
+        "team": "Iraq",
+        "rating": "1607"
+    },
+    {
+        "team": "Northern Ireland",
+        "rating": "1601"
+    },
+    {
+        "team": "Mali",
+        "rating": "1596"
+    },
+    {
+        "team": "Bosnia and Herzegovina",
+        "rating": "1594"
+    },
+    {
+        "team": "North Macedonia",
+        "rating": "1589"
+    },
+    {
+        "team": "New Zealand",
+        "rating": "1585"
+    },
+    {
+        "team": "Honduras",
+        "rating": "1571"
+    },
+    {
+        "team": "Iceland",
+        "rating": "1571"
+    },
+    {
+        "team": "Saudi Arabia",
+        "rating": "1568"
+    },
+    {
+        "team": "Cape Verde",
+        "rating": "1549"
+    },
+    {
+        "team": "Angola",
+        "rating": "1543"
+    },
+    {
+        "team": "Finland",
+        "rating": "1542"
+    },
+    {
+        "team": "United Arab Emirates",
+        "rating": "1540"
+    },
+    {
+        "team": "Jamaica",
+        "rating": "1539"
+    },
+    {
+        "team": "Haiti",
+        "rating": "1532"
+    },
+    {
+        "team": "Burkina Faso",
+        "rating": "1530"
+    },
+    {
+        "team": "South Africa",
+        "rating": "1524"
+    },
+    {
+        "team": "Guatemala",
+        "rating": "1515"
+    },
+    {
+        "team": "Belarus",
+        "rating": "1513"
+    },
+    {
+        "team": "Ghana",
+        "rating": "1503"
+    },
+    {
+        "team": "Syria",
+        "rating": "1491"
+    },
+    {
+        "team": "Oman",
+        "rating": "1490"
+    },
+    {
+        "team": "Bulgaria",
+        "rating": "1475"
+    },
+    {
+        "team": "Guinea",
+        "rating": "1469"
+    },
+    {
+        "team": "Palestine",
+        "rating": "1469"
+    },
+    {
+        "team": "Northern Cyprus",
+        "rating": "1457"
+    },
+    {
+        "team": "Montenegro",
+        "rating": "1439"
+    },
+    {
+        "team": "Curaçao",
+        "rating": "1436"
+    },
+    {
+        "team": "Luxembourg",
+        "rating": "1436"
+    },
+    {
+        "team": "Suriname",
+        "rating": "1431"
+    },
+    {
+        "team": "Kazakhstan",
+        "rating": "1430"
+    },
+    {
+        "team": "Benin",
+        "rating": "1429"
+    },
+    {
+        "team": "Kurdistan",
+        "rating": "1424"
+    },
+    {
+        "team": "China",
+        "rating": "1423"
+    },
+    {
+        "team": "Qatar",
+        "rating": "1423"
+    },
+    {
+        "team": "Gambia",
+        "rating": "1423"
+    },
+    {
+        "team": "Libya",
+        "rating": "1420"
+    },
+    {
+        "team": "Bahrain",
+        "rating": "1418"
+    },
+    {
+        "team": "Gabon",
+        "rating": "1401"
+    },
+    {
+        "team": "Uganda",
+        "rating": "1394"
+    },
+    {
+        "team": "Niger",
+        "rating": "1393"
+    },
+    {
+        "team": "Trinidad and Tobago",
+        "rating": "1392"
+    },
+    {
+        "team": "Equatorial Guinea",
+        "rating": "1390"
+    },
+    {
+        "team": "Madagascar",
+        "rating": "1382"
+    },
+    {
+        "team": "Faroe Islands",
+        "rating": "1382"
+    },
+    {
+        "team": "Armenia",
+        "rating": "1379"
+    },
+    {
+        "team": "Thailand",
+        "rating": "1376"
+    },
+    {
+        "team": "North Korea",
+        "rating": "1375"
+    },
+    {
+        "team": "Mozambique",
+        "rating": "1372"
+    },
+    {
+        "team": "Zambia",
+        "rating": "1370"
+    },
+    {
+        "team": "Zimbabwe",
+        "rating": "1366"
+    },
+    {
+        "team": "Comoros",
+        "rating": "1362"
+    },
+    {
+        "team": "Togo",
+        "rating": "1358"
+    },
+    {
+        "team": "Kenya",
+        "rating": "1356"
+    },
+    {
+        "team": "Vietnam",
+        "rating": "1351"
+    },
+    {
+        "team": "Sudan",
+        "rating": "1350"
+    },
+    {
+        "team": "Sierra Leone",
+        "rating": "1348"
+    },
+    {
+        "team": "Reunion",
+        "rating": "1345"
+    },
+    {
+        "team": "El Salvador",
+        "rating": "1342"
+    },
+    {
+        "team": "Azerbaijan",
+        "rating": "1340"
+    },
+    {
+        "team": "Estonia",
+        "rating": "1339"
+    },
+    {
+        "team": "Guadeloupe",
+        "rating": "1338"
+    },
+    {
+        "team": "Rwanda",
+        "rating": "1336"
+    },
+    {
+        "team": "Lebanon",
+        "rating": "1333"
+    },
+    {
+        "team": "Indonesia",
+        "rating": "1331"
+    },
+    {
+        "team": "Kuwait",
+        "rating": "1328"
+    },
+    {
+        "team": "Nicaragua",
+        "rating": "1327"
+    },
+    {
+        "team": "Zanzibar",
+        "rating": "1321"
+    },
+    {
+        "team": "Tanzania",
+        "rating": "1313"
+    },
+    {
+        "team": "Martinique",
+        "rating": "1312"
+    },
+    {
+        "team": "Mauritania",
+        "rating": "1311"
+    },
+    {
+        "team": "Namibia",
+        "rating": "1303"
+    },
+    {
+        "team": "Latvia",
+        "rating": "1301"
+    },
+    {
+        "team": "Cyprus",
+        "rating": "1301"
+    },
+    {
+        "team": "Liberia",
+        "rating": "1296"
+    },
+    {
+        "team": "Malaysia",
+        "rating": "1293"
+    },
+    {
+        "team": "Guyana",
+        "rating": "1292"
+    },
+    {
+        "team": "Kyrgyzstan",
+        "rating": "1291"
+    },
+    {
+        "team": "Lithuania",
+        "rating": "1290"
+    },
+    {
+        "team": "New Caledonia",
+        "rating": "1286"
+    },
+    {
+        "team": "Tajikistan",
+        "rating": "1285"
+    },
+    {
+        "team": "Burundi",
+        "rating": "1285"
+    },
+    {
+        "team": "Ethiopia",
+        "rating": "1285"
+    },
+    {
+        "team": "Dominican Republic",
+        "rating": "1284"
+    },
+    {
+        "team": "Botswana",
+        "rating": "1267"
+    },
+    {
+        "team": "Moldova",
+        "rating": "1262"
+    },
+    {
+        "team": "Guinea-Bissau",
+        "rating": "1248"
+    },
+    {
+        "team": "Malawi",
+        "rating": "1241"
+    },
+    {
+        "team": "Cuba",
+        "rating": "1239"
+    },
+    {
+        "team": "Central African Republic",
+        "rating": "1237"
+    },
+    {
+        "team": "Malta",
+        "rating": "1237"
+    },
+    {
+        "team": "French Guiana",
+        "rating": "1223"
+    },
+    {
+        "team": "Mayotte",
+        "rating": "1216"
+    },
+    {
+        "team": "Turkmenistan",
+        "rating": "1209"
+    },
+    {
+        "team": "Congo",
+        "rating": "1207"
+    },
+    {
+        "team": "Lesotho",
+        "rating": "1205"
+    },
+    {
+        "team": "Eritrea",
+        "rating": "1201"
+    },
+    {
+        "team": "Tahiti",
+        "rating": "1176"
+    },
+    {
+        "team": "Philippines",
+        "rating": "1167"
+    },
+    {
+        "team": "Yemen",
+        "rating": "1151"
+    },
+    {
+        "team": "Eswatini",
+        "rating": "1149"
+    },
+    {
+        "team": "Saint Vincent and the Grenadines",
+        "rating": "1141"
+    },
+    {
+        "team": "Puerto Rico",
+        "rating": "1138"
+    },
+    {
+        "team": "Singapore",
+        "rating": "1137"
+    },
+    {
+        "team": "Papua New Guinea",
+        "rating": "1135"
+    },
+    {
+        "team": "India",
+        "rating": "1134"
+    },
+    {
+        "team": "Hong Kong",
+        "rating": "1120"
+    },
+    {
+        "team": "Bermuda",
+        "rating": "1119"
+    },
+    {
+        "team": "Vanuatu",
+        "rating": "1114"
+    },
+    {
+        "team": "South Sudan",
+        "rating": "1109"
+    },
+    {
+        "team": "Fiji",
+        "rating": "1108"
+    },
+    {
+        "team": "Grenada",
+        "rating": "1098"
+    },
+    {
+        "team": "Andorra",
+        "rating": "1077"
+    },
+    {
+        "team": "Mauritius",
+        "rating": "1073"
+    },
+    {
+        "team": "Chad",
+        "rating": "1073"
+    },
+    {
+        "team": "Belize",
+        "rating": "1073"
+    },
+    {
+        "team": "Solomon Islands",
+        "rating": "1054"
+    },
+    {
+        "team": "Saint Martin",
+        "rating": "1042"
+    },
+    {
+        "team": "Sao Tome and Principe",
+        "rating": "1035"
+    },
+    {
+        "team": "Saint Kitts and Nevis",
+        "rating": "1029"
+    },
+    {
+        "team": "Afghanistan",
+        "rating": "1011"
+    },
+    {
+        "team": "Somaliland",
+        "rating": "1005"
+    },
+    {
+        "team": "Saint Lucia",
+        "rating": "1003"
+    },
+    {
+        "team": "Gibraltar",
+        "rating": "1002"
+    },
+    {
+        "team": "Western Sahara",
+        "rating": "996"
+    },
+    {
+        "team": "Myanmar",
+        "rating": "982"
+    },
+    {
+        "team": "Aruba",
+        "rating": "979"
+    },
+    {
+        "team": "Somalia",
+        "rating": "979"
+    },
+    {
+        "team": "Sint Maarten",
+        "rating": "975"
+    },
+    {
+        "team": "Montserrat",
+        "rating": "971"
+    },
+    {
+        "team": "Greenland",
+        "rating": "946"
+    },
+    {
+        "team": "Djibouti",
+        "rating": "940"
+    },
+    {
+        "team": "Dominica",
+        "rating": "934"
+    },
+    {
+        "team": "Bangladesh",
+        "rating": "932"
+    },
+    {
+        "team": "Liechtenstein",
+        "rating": "904"
+    },
+    {
+        "team": "Monaco",
+        "rating": "903"
+    },
+    {
+        "team": "Barbados",
+        "rating": "898"
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "rating": "894"
+    },
+    {
+        "team": "Nepal",
+        "rating": "893"
+    },
+    {
+        "team": "Seychelles",
+        "rating": "853"
+    },
+    {
+        "team": "Maldives",
+        "rating": "848"
+    },
+    {
+        "team": "Cambodia",
+        "rating": "844"
+    },
+    {
+        "team": "San Marino",
+        "rating": "836"
+    },
+    {
+        "team": "Bonaire",
+        "rating": "836"
+    },
+    {
+        "team": "Sri Lanka",
+        "rating": "827"
+    },
+    {
+        "team": "Taiwan",
+        "rating": "821"
+    },
+    {
+        "team": "Pakistan",
+        "rating": "812"
+    },
+    {
+        "team": "Cayman Islands",
+        "rating": "805"
+    },
+    {
+        "team": "Chagos Islands",
+        "rating": "782"
+    },
+    {
+        "team": "Tuvalu",
+        "rating": "756"
+    },
+    {
+        "team": "Sint Eustatius",
+        "rating": "737"
+    },
+    {
+        "team": "Laos",
+        "rating": "734"
+    },
+    {
+        "team": "Mongolia",
+        "rating": "729"
+    },
+    {
+        "team": "Samoa",
+        "rating": "728"
+    },
+    {
+        "team": "British Virgin Islands",
+        "rating": "727"
+    },
+    {
+        "team": "Saint Barthelemy",
+        "rating": "725"
+    },
+    {
+        "team": "Guam",
+        "rating": "718"
+    },
+    {
+        "team": "Wallis and Futuna",
+        "rating": "699"
+    },
+    {
+        "team": "Vatican",
+        "rating": "692"
+    },
+    {
+        "team": "Saba",
+        "rating": "691"
+    },
+    {
+        "team": "Bahamas",
+        "rating": "685"
+    },
+    {
+        "team": "Saint Pierre and Miquelon",
+        "rating": "677"
+    },
+    {
+        "team": "East Timor",
+        "rating": "673"
+    },
+    {
+        "team": "Turks and Caicos Islands",
+        "rating": "657"
+    },
+    {
+        "team": "Anguilla",
+        "rating": "646"
+    },
+    {
+        "team": "Bhutan",
+        "rating": "636"
+    },
+    {
+        "team": "Brunei",
+        "rating": "633"
+    },
+    {
+        "team": "Tibet",
+        "rating": "629"
+    },
+    {
+        "team": "US Virgin Islands",
+        "rating": "628"
+    },
+    {
+        "team": "Cook Islands",
+        "rating": "622"
+    },
+    {
+        "team": "Macao",
+        "rating": "588"
+    },
+    {
+        "team": "Christmas Island",
+        "rating": "578"
+    },
+    {
+        "team": "Falkland Islands",
+        "rating": "571"
+    },
+    {
+        "team": "FS Micronesia",
+        "rating": "563"
+    },
+    {
+        "team": "Marshall Islands",
+        "rating": "559"
+    },
+    {
+        "team": "Kiribati",
+        "rating": "544"
+    },
+    {
+        "team": "Tonga",
+        "rating": "520"
+    },
+    {
+        "team": "Niue",
+        "rating": "496"
+    },
+    {
+        "team": "Northern Mariana Islands",
+        "rating": "432"
+    },
+    {
+        "team": "Cocos Islands",
+        "rating": "422"
+    },
+    {
+        "team": "Palau",
+        "rating": "402"
+    },
+    {
+        "team": "Eastern Samoa",
+        "rating": "369"
+    }
+]
