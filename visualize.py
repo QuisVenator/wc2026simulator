@@ -12,6 +12,9 @@ from wc_strings import t, stage_label
 from huggingface_hub import hf_hub_download
 import os
 
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+os.environ["HF_HOME"] = os.path.join(APP_DIR, ".hf_cache")
+
 # ─────────────────────────────────────────────
 # CONSTANTS
 # ─────────────────────────────────────────────
