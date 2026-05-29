@@ -126,7 +126,7 @@ def parse_args():
                         default="QuisVenator/wc2026_simulation",
                         help="Hugging Face dataset repo ID")
     parser.add_argument("--filename", type=str,
-                        default="simulation_runs_100k_parallel.jsonl",
+                        default="simulation_runs_10k_parallel.jsonl",
                         help="Filename within the dataset repo")
     parser.add_argument("--file",     type=str, default=None,
                         help="Local file path (overrides --repo if provided)")
